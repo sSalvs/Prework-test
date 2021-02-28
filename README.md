@@ -1,3 +1,5 @@
 # Prework-test
 Testing Git and GitHub for Pre-wrok 
-Tryig to follow instructions
+Trying to follow instructions
+making some changes 
+
